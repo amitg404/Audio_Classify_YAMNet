@@ -4,7 +4,6 @@
 
 AudioClassify is a comprehensive audio classification application that uses Google's YAMNet model to identify and categorize sounds in real-time. Perfect for acoustic monitoring, environmental sound analysis, and audio research applications.
 
-![AudioClassify](https://github.com/amitg404/Audio_Classify_YAMNet.git)
 
 ## ✨ Features
 
